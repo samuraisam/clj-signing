@@ -1,5 +1,5 @@
 (defproject org.steamboat/signing "0.0.1"
-  :description "Provides facilities for signing string and objects"
+  :description "Provides facilities for signing strings and objects"
   :url "http://ssutch.org/clojure-signed-strings/"
   :license {:name "MIT"
             :url "http://opensource.org/licenses/MIT"}
