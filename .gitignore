@@ -9,3 +9,4 @@ pom.xml
 .idea
 /target/
 .lein-failures
+pom.xml.asc
